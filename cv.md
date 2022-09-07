@@ -1,4 +1,5 @@
 # Vasilii Sochkov
+## Junior Frontend Developer
 ===
 ## My Contact Info:
 Phone: +7 919 807 39 01
