@@ -3,8 +3,11 @@
 
 ## My Contact Info:
 Phone: +7 919 807 39 01
+
 E-mail: sovaiv145@gamil.com
+
 GitHub: sovaiv145
+
 Telegram @Sochkov
 
 ## About Me
