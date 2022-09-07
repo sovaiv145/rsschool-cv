@@ -24,6 +24,10 @@ I am 35 years old and I decided to become a front-end programmer. For many years
 *Launching projects
 *Copywriting
 ===
+##Experience
+1. 2008-2015 JSC SRC Progress, Samara as Engineer, Team leader
+2. 2015-2022 TraderAssist as Enterpreneur
+===
 ##Code Examples
 ```
 const sliders = document.querySelectorAll('.slider_page');
