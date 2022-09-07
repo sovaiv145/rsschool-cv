@@ -4,7 +4,7 @@
 ## My Contact Info:
 Phone: +7 919 807 39 01
 
-E-mail: sovaiv145@gamil.com
+E-mail: sovaiv145@gmail.com
 
 GitHub: sovaiv145
 
